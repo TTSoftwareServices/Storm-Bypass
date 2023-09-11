@@ -1,0 +1,1 @@
+pyarmor pack -x " --advanced 2" -e "--onefile --uac-admin --icon stormico.ico" main.py
